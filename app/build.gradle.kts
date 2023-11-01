@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.br.giardini.jetpackcomposerocketseat"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.br.giardini.jetpackcomposerocketseat"
